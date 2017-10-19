@@ -1,0 +1,6 @@
+---
+title: "october_overview"
+author: "Ricardo Mayer"
+date: "October 18, 2017"
+output: html_document
+---

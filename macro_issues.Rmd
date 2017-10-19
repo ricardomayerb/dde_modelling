@@ -1,0 +1,78 @@
+---
+title: "macro_issues"
+author: "Ricardo Mayer"
+date: "October 19, 2017"
+output:
+  html_document: default
+  word_document: default
+---
+
+1. Consumption-led expansion 
+
+  - Overview: Consumption lead expansions may build up fragilities through excessive lending. This either hamper growth in the medium run or set the stage for a financial crisis. It is an extended phenomenon: the BIS, bacause of data availability, focus on advanced economies but it is also ubiquitous  in sub-saharan and latin american economies
+  
+      + Obs 1: In advanced economies is a product of zero nominal rates and monetary stimulus to clean up balance sheets. In latin america is the financial market development reaching to middle and midle-low income groups grantig them consumtion loans (but also housing debt, does this matter?)
+  
+      + Idea 1: How can we sustain this positive impulse? What are appropriate policies? How the different origins of credit expansion (intensive versus extensive margins) 
+      
+      + Idea 2: If household debt service ratio is the ideal variable but is not available, as in many latin american countries, what are good proxies?
+      
+  
+  - Literature
+      + Kharruni and Kohlscheen, 2017, BIS. http://www.bis.org/publ/qtrpdf/r_qt1703e.pdf
+      
+        Abstract: *GDP growth has increasingly been led by consumption. However, consumption-led expansions tend to be significantly weaker than when growth is driven by other components of aggregate demand, often because of the build-up of imbalances. We show that while factors such as credit growth and rising house prices can boost consumption in the short run, the incidence of consumption-led growth and rising debt service ratios significantly dampen growth in the medium to long run. Policies that address the build-up of imbalances and strengthen investment are therefore central to fostering durable growth* 
+      
+        Here is Bloomberg's extract:
+        The global economy’s recovery from the financial crisis may be overly dependent on domestic consumption and at risk of failing, according to the Bank for International Settlements.
+
+        In its quarterly review, the organization said the number of advanced economies in consumption-led expansions has increased in recent years. In addition to generally being weaker than other forms of growth, this type can also sow the seeds of future slumps. This is particularly the case if they are driven by a buildup of debt, as happened prior to the crisis in 2008.
+      
+        Increasing shares of private consumption in gross domestic product can be a leading indicator of future growth slowdowns,” BIS economists Enisse Kharroubi and Emanuel Kohlscheen said in the BIS report published on Monday. “High household debt service ratios tend to become a potent drag on economic growth, frequently leading to costly deleveraging processes.
+
+        One of the drivers of consumption in recent years has been monetary stimulus since 2008, with the European Central Bank and others cutting interest rates below zero or implementing massive bond-buying programs. That extraordinary stimulus has also fueled talk that central banks are fueling the next asset-price bubble.
+
+        “The increasing prevalence of consumption-led growth since 2012 therefore presents new challenges for policymakers in several economies,” Kharroubi and Kohlscheen said. “Policies that address the build-up of imbalances and strengthen investment are thus central in fostering sustainable growth.”
+
+
+
+2. Macro-prudential policies
+
+  - Overview (hablar con esteban). Estamos en un risk taking period, fueled by low real and nominal rates, do we stop this? how? lean or clean?. A decade after the U.S. housing market collapsed, Federal Reserve officials are watching rising apartment towers as the next potential asset-price bubble, which could add to the debate about the pace of interest-rate hikes this year.
+
+Fed Chair Janet Yellen cited commercial real estate prices as “high” in a speech at Stanford University on Jan. 19. That message has been echoed by Governor Jerome Powell, who warned “low rates may lead to a reach for yield,” as well as Boston Fed President Eric Rosengren, who cited luxury housing in his city. (https://www.bloomberg.com/news/articles/2017-02-02/yellen-eyes-commercial-real-estate-froth-as-fed-weighs-17-risks)
+  
+      + Obs 1: Que es el riesgo sistemico, exactamente? como cambian las opciones con las definiciones?
+      
+      + Obs 2: how do we identify reach for yield
+      
+      + Idea 1:
+      
+      + Idea 2:
+  
+  - Literature: Frankel 2017
+  
+  
+  
+3. Macro and inequality interaction
+
+  - Overview
+      + Idea 1
+      + Idea 2
+
+  - Literature: 
+      + When Inequality Matters for Macro and Macro Matters for Inequality, by SeHyoun Ahn, Greg Kaplan, Benjamin Moll, Thomas Winberry, Christian Wolf. NBER Working Paper No. 23494. Issued in June 2017. http://www.nber.org/papers/w23494
+      Abstract: *We develop an efficient and easy-to-use computational method for solving a wide class of general equilibrium heterogeneous agent models with aggregate shocks, together with an open source suite of codes that implement our algorithms in an easy-to-use toolbox. Our method extends standard linearization techniques and is designed to work in cases when inequality matters for the dynamics of macroeconomic aggregates. We present two applications that analyze a two-asset incomplete markets model parameterized to match the distribution of income, wealth, and marginal propensities to consume. First, we show that our model is consistent with two key features of aggregate consumption dynamics that are difficult to match with representative agent models: (i) the sensitivity of aggregate consumption to predictable changes in aggregate income and (ii) the relative smoothness of aggregate consumption. Second, we extend the model to feature capital-skill complementarity and show how factor-specific productivity shocks shape dynamics of income and consumption inequality.*
+        Comments by Per Krusell: http://www.nber.org/chapters/c13929.pdf
+
+    
+
+4. Monetary Policy
+
+  - Overview 
+      + Idea 1
+      + Idea 2
+      
+
+
+
