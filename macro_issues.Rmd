@@ -38,17 +38,30 @@ output:
 
 2. Macro-prudential policies
 
-  - Overview (hablar con esteban). Estamos en un risk taking period, fueled by low real and nominal rates, do we stop this? how? lean or clean?. A decade after the U.S. housing market collapsed, Federal Reserve officials are watching rising apartment towers as the next potential asset-price bubble, which could add to the debate about the pace of interest-rate hikes this year.
-
-Fed Chair Janet Yellen cited commercial real estate prices as “high” in a speech at Stanford University on Jan. 19. That message has been echoed by Governor Jerome Powell, who warned “low rates may lead to a reach for yield,” as well as Boston Fed President Eric Rosengren, who cited luxury housing in his city. (https://www.bloomberg.com/news/articles/2017-02-02/yellen-eyes-commercial-real-estate-froth-as-fed-weighs-17-risks)
+   - Overview (hablar con esteban). Estamos en un risk taking period, fueled by low real and nominal rates, do we stop this? how? lean or clean?. A decade after the U.S. housing market collapsed, Federal Reserve officials are watching rising apartment towers as the next potential asset-price bubble, which could add to the debate about the pace of interest-rate hikes this year.
   
-      + Obs 1: Que es el riesgo sistemico, exactamente? como cambian las opciones con las definiciones?
+   - BIS September 2017 remarks: **Strong outlook with low inflation spurs risk-taking** http://www.bis.org/publ/qtrpdf/r_qt1709a.htm:
       
-      + Obs 2: how do we identify reach for yield
+      The shifting outlook for the future paths of monetary policy and increased US policy uncertainty put strong downward pressure on the US dollar. As macro news was also better than expected globally while disappointing in the United States, the dollar depreciated vis-à-vis all major advanced economy and EME currencies. The dollar lost most ground against the euro, given the strengthening economic outlook in the euro area and monetary policy signals.
+
+      Low measures of volatility and a depreciating dollar supported a "risk-on" phase. It whetted investors' appetite for EME assets as carry trades delivered large returns. Equity market investors used record amounts of margin debt to lever up their investments, even though price/earnings ratios indicated that equity valuations might be stretched by historical standards. And there were some signs of search for yield in debt markets: issuance volumes in leveraged loan and high-yield bond markets rose while covenant standards eased.
       
-      + Idea 1:
+      *A "risk-on" phase*: As is typical for periods of low volatility and a falling dollar, a "risk-on" phase prevailed. 
+      Against the backdrop of persistent interest rate differentials and a depreciating dollar, returns from carry trades rose sharply and EME equity and bond funds saw large inflows during the period under review (Graph 7, first panel). Speculative positions also pointed to patterns of broader carry trade activity: large net short positions in funding currencies, such as the yen and Swiss franc, and large net long positions in EME currencies and the Australian dollar (Graph 4, right-hand panel).
+
+      Equity market investors also employed record amounts of margin debt to lever up their investments. In fact, margin debt outstanding was substantially higher than during the dotcom boom and around 10% higher than its previous peak in 2015 (Graph 7, second panel).
       
-      + Idea 2:
+      The relative number of companies rated A or better has fallen especially sharply, while the share of worst-rated (C or lower) companies has increased. Taken together, this suggests that, in the event of a slowdown or an upward adjustment in interest rates, high debt service payments and default risk could pose challenges to corporates, and thereby create headwinds for GDP growth.
+
+  - FEDs remark Jan 2017: Fed Chair Janet Yellen cited commercial real estate prices as “high” in a speech at Stanford University on Jan. 19. That message has been echoed by Governor Jerome Powell, who warned “low rates may lead to a reach for yield,” as well as Boston Fed President Eric Rosengren, who cited luxury housing in his city. (https://www.bloomberg.com/news/articles/2017-02-02/yellen-eyes-commercial-real-estate-froth-as-fed-weighs-17-risks)
+  
+   + Obs 1: Que es el riesgo sistemico, exactamente? como cambian las opciones con las definiciones?
+      
+    + Obs 2: how do we identify reach for yield
+      
+   + Idea 1:
+      
+   + Idea 2:
   
   - Literature: Frankel 2017
   
@@ -56,9 +69,19 @@ Fed Chair Janet Yellen cited commercial real estate prices as “high” in a sp
   
 3. Macro and inequality interaction
 
-  - Overview
-      + Idea 1
-      + Idea 2
+   - Overview
+  
+   + Obs 1: Should policy makers target inequality or be concerned with a trade off woth growth? One view: when potential gains in growth rates are small (USA, EU) it is worthwile to focus on inequality. But in ALC and other, there is much to be missed by not targetig growth. One caveat is that policy has much larger distributive effect that growth ones, except for really bad policies. And small changes can in general have low efficiency effects while producing large redristributions.  https://piie.com/system/files/documents/furman20171012paper.pdf   and https://piie.com/system/files/documents/rodrik20171013ppt.pdf
+   
+   + Obs 2: formal models need to feature heterogeneous agents to explore inequality. Challenging in general. Per Krusell notes that AKMWW paper and implementation is a promising step towards a spur of new research (easier to use)
+  
+   + Idea 1 Going forward, as we continue to rethink macroeconomics, better incorporating welfare
+and distributional considerations into models and understanding how they relate to specific
+policy instruments. The fact that we cannot agree on the appropriate social welfare function is
+not an argument for choosing one particular social welfare function—the average of incomes—
+that is inconsistent with the way most policymakers describe their ultimate goals.
+   
+   + Idea 2
 
   - Literature: 
       + When Inequality Matters for Macro and Macro Matters for Inequality, by SeHyoun Ahn, Greg Kaplan, Benjamin Moll, Thomas Winberry, Christian Wolf. NBER Working Paper No. 23494. Issued in June 2017. http://www.nber.org/papers/w23494
