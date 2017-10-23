@@ -12,6 +12,17 @@ output:
   - Overview: Consumption lead expansions may build up fragilities through excessive lending. This either hamper growth in the medium run or set the stage for a financial crisis. It is an extended phenomenon: the BIS, bacause of data availability, focus on advanced economies but it is also ubiquitous  in sub-saharan and latin american economies
   
       + Obs 1: In advanced economies is a product of zero nominal rates and monetary stimulus to clean up balance sheets. In latin america is the financial market development reaching to middle and midle-low income groups grantig them consumtion loans (but also housing debt, does this matter?)
+      
+      + Obs 2: it could be a cause or a symptom. Causal: if finance through debt, it 
+      can be followed by a costly and growth-hindering process of deleveraging, either 
+      because a financial crisis hits or because overborrowing. Also causal is when is due to wealth effects in particular housing wealth effect, they could be spending the capital gain that could be rising faster than income. Symptom: few growth oportunities and investment is weak, weak investment is associated with low growth, which shows up as consumption led growth because the share of consumption grows, not least because consumption is stickier.
+      
+      + Obs 3: this is related but not equivalent to how credit expansions can be a drag on gdp growth through a higher debt service ratio  (Drehmann and Juselius (2012), Dynan (2012), Mian et al (2013), Juselius et al (2016) and Drehmann et al (2017).
+      
+      + Obs 4: The very short-term growth rate of consumption in several economies is affected by past house price developments, and house prices thus can be an important
+channel of monetary policy transmission. In the medium to long run, however, house
+price effects on consumption are typically superseded by the dynamics of the debt
+service ratio and investment. 
   
       + Idea 1: How can we sustain this positive impulse? What are appropriate policies? How the different origins of credit expansion (intensive versus extensive margins) 
       
