@@ -1,0 +1,27 @@
+---
+title: "five months plan"
+author: "ricardo mayer"
+date: "November 8, 2017"
+output: html_document
+---
+
+- crecimiento del PIB mayor a lo proyectado
+- demanda agregada tuvo un repunte liderado por el consumo del gobierno y el consumo privado
+- una expansión sostenida del crédito productivo y de consumo, junto a una expansiòn de la deuda pública
+- Exportaciones moderadamente mayores, en el caso del camarón
+
+La economía ecuatoriana logra una recuperación mayor a la esperada, de la mano de un fuerte impulso fiscal a la demanda agregada
+, frente al consumo respondió positivamente, no así la formación bruta de capital. 
+
+En corto plazo no se avizoran problemas para conseguir nuevo financiamiento para el Ecuador, producto de la extensa liquidez de los mercados internacionales, la aún moderada carga de deuda del Ecuador y los altos retornos de sus bonos. Esta situación aleja para este año y el pròximo eventuales problemas de liquidez de la economía o la necesidad imperiosa e inmediata de un ajuste fiscal más drástica, pero es evidente que el peso del servicio de la deuda tendrá un efecto apreciable desde el 2020 en adelante, recortando el espacio fiscal para seguir estimulando el consumo. Se necesita durante el 2018 un reactivaciòn de la inversiòn y aumento de las exportaciones, sumando a los ya tradicionales hidrocarburos y camarones, la exportaciòn de energìa elèctrica y minerìa.
+
+En el corto plazo, mientras no existan saldos positivos mas abultados de la balanza comercial, la inversión extranjera difìcilmente elimine la necesidad de nuevos bonos para mantener las reservas internacionales en un nivel alto y estable.
+
+Problema de apreciaciòn real con usa, peru, colombia
+
+efectividad medidas importaciones y vontrabando
+
+efectividad de excenciones tributatias pro importaciones
+
+
+
